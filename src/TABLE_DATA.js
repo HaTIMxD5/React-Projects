@@ -21,7 +21,6 @@ const TABLE_DATA = [
     status: "Active",
     role: "Admin",
     joinedDate: "March 12, 2023",
-    lastActive: "1 minute ago",
     actions: "",
   },
   {
@@ -34,7 +33,6 @@ const TABLE_DATA = [
     status: "Inactive",
     role: "User",
     joinedDate: "June 27, 2022",
-    lastActive: "1 month ago",
     actions: "",
   },
   {
@@ -47,7 +45,6 @@ const TABLE_DATA = [
     status: "Banned",
     role: "User",
     joinedDate: "January 8, 2024",
-    lastActive: "4 days ago",
     actions: "",
   },
   {
@@ -60,7 +57,6 @@ const TABLE_DATA = [
     status: "Pending",
     role: "Guest",
     joinedDate: "October 5, 2021",
-    lastActive: "10 days ago",
     actions: "",
   },
   {
@@ -73,7 +69,6 @@ const TABLE_DATA = [
     status: "Suspended",
     role: "User",
     joinedDate: "February 19, 2023",
-    lastActive: "3 months ago",
     actions: "",
   },
   {
@@ -86,7 +81,6 @@ const TABLE_DATA = [
     status: "Active",
     role: "Moderator",
     joinedDate: "August 30, 2022",
-    lastActive: "1 week ago",
     actions: "",
   },
   {
@@ -99,7 +93,6 @@ const TABLE_DATA = [
     status: "Active",
     role: "Guest",
     joinedDate: "April 23, 2024",
-    lastActive: "4 hours ago",
     actions: "",
   },
   {
@@ -112,7 +105,6 @@ const TABLE_DATA = [
     status: "Banned",
     role: "User",
     joinedDate: "November 14, 2020",
-    lastActive: "2 months ago",
     actions: "",
   },
   {
@@ -125,7 +117,6 @@ const TABLE_DATA = [
     status: "Suspended",
     role: "User",
     joinedDate: "July 6, 2023",
-    lastActive: "3 hours ago",
     actions: "",
   },
   {
@@ -138,7 +129,6 @@ const TABLE_DATA = [
     status: "Inactive",
     role: "Guest",
     joinedDate: "December 31, 2021",
-    lastActive: "4 months ago",
     actions: "",
   },
   {
@@ -151,7 +141,6 @@ const TABLE_DATA = [
     status: "Active",
     role: "Admin",
     joinedDate: "August 10, 2024",
-    lastActive: "15 minutes ago",
     actions: "",
   },
 ];
